@@ -71,3 +71,11 @@ git config --global user.email "<адрес_почты@email.com>"
 
 вернуться к актуальному состоянию и продолжить работу
 "git checkout master"
+
+git log --graph - визуализирует коммиты
+
+git checkout -b <название ветки> -> Создание и переход в новую ветку
+
+git commit --amend -m “text” - изменение текста последнего коммита
+
+git reset HEAD~ - удаление последнего коммита
