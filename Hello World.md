@@ -77,6 +77,10 @@ git config --global user.email "<адрес_почты@email.com>"
 
 git log --graph - визуализирует коммиты
 
+git branch – посмотреть список веток в репозитории
+
+git branch <название ветки> – создать новую ветку
+
 git checkout -b <название ветки> -> Создание и переход в новую ветку
 
 git commit --amend -m “text” - изменение текста последнего коммита
