@@ -71,3 +71,5 @@ git config --global user.email "<адрес_почты@email.com>"
 
 вернуться к актуальному состоянию и продолжить работу
 "git checkout master"
+
+git branch – посмотреть список веток в репозитории
